@@ -16,10 +16,10 @@ The project objective is to explore and understand the career aspirations of Gen
 -The alignment between company mission and actions, where Gen Z values companies that follow through on their social, environmental, or ethical commitments.
 - Dashboard Interaction <a href="https://github.com/mamatha203/Career-Aspirations-Excel-project/blob/main/Career%20aspiration%20dashboard.xlsx">View Dashboard</a>
 ## Process
--Verified that all relevant data is available, such as sales figures, order details, customer data, etc.
--Organized data in a clean, tabular format with clear headers and consistent data types. 
--Clean the data to remove errors or inconsistencies like duplicates, missing values.
--Merge all pivot tables into one dashboard and apply slicer make dynamic.
+- Verified that all relevant data is available, such as sales figures, order details, customer data, etc.
+- Organized data in a clean, tabular format with clear headers and consistent data types. 
+- Clean the data to remove errors or inconsistencies like duplicates, missing values.
+- Merge all pivot tables into one dashboard and apply slicer make dynamic.
 ## Dashboard
 
 ![screenshot](https://github.com/user-attachments/assets/3475e465-5b16-4456-bf2d-046f92eb5049)
