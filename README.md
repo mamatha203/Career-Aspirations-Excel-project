@@ -20,7 +20,7 @@ The project objective is to explore and understand the career aspirations of Gen
 
 - The preferred work setups.
 
--The percentage of Gen Z respondents who believe having a clear company mission positively impacts their job satisfaction.
+- The percentage of Gen Z respondents who believe having a clear company mission positively impacts their job satisfaction.
 
 - The alignment between company mission and actions, where Gen Z values companies that follow through on their social, environmental, or ethical commitments.
 
