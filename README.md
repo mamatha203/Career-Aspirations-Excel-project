@@ -2,7 +2,7 @@
 ## Project Objective
 The project objective is to explore and understand the career aspirations of Generation Z, focusing on their preferences for work-life balance, purpose-driven careers, technological innovation, and financial stability. It aims to identify key trends shaping their professional goals and how these factors influence their career choices in a rapidly evolving job market.
 # Dataset Used
-<a href=”https://github.com/mamatha203/Ecommerce-Data-Analysis/blob/main/Ecommerce%20Data.xlsx”>Dataset</a>
+<a href="https://github.com/mamatha203/Career-Aspirations-Excel-project/blob/main/GenZ%20data.xlsx">Dataset</a>
 ## Key performance Indicators?
 - The total number of individuals surveyed to understand Generation Z’s career aspirations.
 
