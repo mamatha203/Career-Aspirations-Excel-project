@@ -4,25 +4,25 @@ The project objective is to explore and understand the career aspirations of Gen
 # Dataset Used
 <a href=”https://github.com/mamatha203/Ecommerce-Data-Analysis/blob/main/Ecommerce%20Data.xlsx”>Dataset</a>
 ## Key performance Indicators?
--The total number of individuals surveyed to understand Generation Z’s career aspirations.
+- The total number of individuals surveyed to understand Generation Z’s career aspirations.
 
--Percentage of male respondents.
+- Percentage of male respondents.
 
--Percentage of female respondents.
+- Percentage of female respondents.
 
--The average salary expectation for a Gen Z worker three years into their career.
+- The average salary expectation for a Gen Z worker three years into their career.
 
--The types of companies Gen Z most prefers working for, based on survey results.
+- The types of companies Gen Z most prefers working for, based on survey results.
 
--The average salary expectation for a Gen Z worker three years into their career.
+- The average salary expectation for a Gen Z worker three years into their career.
 
--What level of higher education Gen Z prefers or values most in their career journey.
+- What level of higher education Gen Z prefers or values most in their career journey.
 
--The preferred work setups.
+- The preferred work setups.
 
 -The percentage of Gen Z respondents who believe having a clear company mission positively impacts their job satisfaction.
 
--The alignment between company mission and actions, where Gen Z values companies that follow through on their social, environmental, or ethical commitments.
+- The alignment between company mission and actions, where Gen Z values companies that follow through on their social, environmental, or ethical commitments.
 
 - Dashboard Interaction <a href="https://github.com/mamatha203/Career-Aspirations-Excel-project/blob/main/Career%20aspiration%20dashboard.xlsx">View Dashboard</a>
 
